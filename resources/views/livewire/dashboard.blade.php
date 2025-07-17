@@ -1,6 +1,6 @@
 <div class="space-y-6">
     <h1 class="text-2xl font-bold text-gray-800 flex items-center justify-between">
-        <span><i class="fa-solid fa-chart-line text-primary-600 mr-2"></i>Dashboard</span>
+        <span><i class="fa-solid fa-chart-line text-primary-600 mr-2"></i>Dashboard test ini</span>
     </h1>
 
     @if ($activeBudget)
